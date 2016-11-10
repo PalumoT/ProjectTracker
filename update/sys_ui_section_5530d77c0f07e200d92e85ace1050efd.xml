@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Initial Assessment Response" section_id="5530d77c0f07e200d92e85ace1050efd" sys_domain="global" table="x_44552_project_tr_demand" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>1f39aff40f47e200d92e85ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_effort</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>9f39aff40f47e200d92e85ace1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iar_complexity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>1339aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iar_impact</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>9339aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iar_effort_cost</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>1739aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assessment_confidence_level</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>9739aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>1b39aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_44552_project_tr_assessment_key.xml</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>9b39aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Assessment Key">31e41bfc0f07e200d92e85ace1050e52</sys_ui_formatter>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 13:54:23</sys_created_on>
+            <sys_id>1f39aff40f47e200d92e85ace1050e5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Initial Assessment Response" display_value="Initial Assessment Response" name="x_44552_project_tr_demand" sys_domain="global" view="Default view">5530d77c0f07e200d92e85ace1050efd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 13:54:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Initial Assessment Response</caption>
+            <header>false</header>
+            <name>x_44552_project_tr_demand</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-11-10 12:05:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5530d77c0f07e200d92e85ace1050efd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Initial Assessment Response</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Tracker" source="x_44552_project_tr">7135cf740f07e200d92e85ace1050eba</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Project Tracker">7135cf740f07e200d92e85ace1050eba</sys_scope>
+            <sys_update_name>sys_ui_section_5530d77c0f07e200d92e85ace1050efd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-11-10 12:05:01</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

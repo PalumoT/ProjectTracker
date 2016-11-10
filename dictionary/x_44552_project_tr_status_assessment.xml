@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Status Assessment" max_length="40" name="x_44552_project_tr_status_assessment" type="collection">
+        <element label="Assessment" max_length="4000" name="assessment" type="string_full_utf8"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Demand" max_length="32" name="demand" reference="x_44552_project_tr_demand" type="reference"/>
+        <element label="Issue" max_length="32" name="issue" reference="x_44552_project_tr_issues" type="reference"/>
+        <element label="Project" max_length="32" name="project" reference="x_44552_project_tr_project_table" type="reference"/>
+        <index name="index">
+            <element name="issue"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+        <index name="index3">
+            <element name="demand"/>
+        </index>
+    </element>
+</database>
